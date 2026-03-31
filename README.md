@@ -42,5 +42,5 @@ To compile and run these programs, you need a C++ compiler installed on your sys
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [[https://github.com/your-username/your-repo-name.git](https://github.com/sanjidtalukder/FCFS_RR_FF_FIFO/tree/main)]([https://github.com/your-username/your-repo-name.git](https://github.com/sanjidtalukder/FCFS_RR_FF_FIFO/tree/main))
    cd your-repo-name
